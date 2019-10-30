@@ -20,3 +20,4 @@ public class ConstructorInjectedControllerTest {
         assertEquals(GreetingServiceImpl.HELLO_GURUS, constructorInjectedController.sayHello());
     }
 }
+
